@@ -47,7 +47,7 @@ let noMessages = [
   "Don't do this please :(",
   "But I love you",
   "I'm gonna cry :(",
-  "You're gonna break my heart :(",
+  "My heart :(",
   "Are you sure?",
   "Are you sure??",
   "Last chance ;(",
