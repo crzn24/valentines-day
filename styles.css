@@ -1,0 +1,47 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 0 10px;
+}
+
+#yesButton {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  border: none;
+}
+
+#noButton {
+  background-color: #f44336; /* Red */
+  color: white;
+  border: none;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Add this CSS to adjust the initial size of the Yes button */
+#yesButton {
+  width: 100px;
+  height: 40px;
+}
